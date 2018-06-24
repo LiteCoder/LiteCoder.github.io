@@ -5,17 +5,17 @@ header-img: img/home-bg.jpg
 email: abelwy@gmail.com
 description: "个人博客开通啦"
 keyword: ".net core"
-url: "https://LiteCoder.github.io"              # your host, for absolute URL
+url: "http://LiteCoder.github.io"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     abelwy
 #zhihu_username:     abelwy
 github_username:    LiteCoder
-#twitter_username:  labelwy
+twitter_username:  labelwy
 facebook_username:  abelwy
 
 
@@ -83,6 +83,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Andy's Blog",
-        href: "https://LiteCoder.github.io"
+        href: "http://LiteCoder.github.io"
     }
 ]

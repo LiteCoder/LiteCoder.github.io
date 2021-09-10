@@ -43,7 +43,7 @@
             "key": "605资源",
             "name": "605资源",
             "type": 0,
-            "api": "http://www.605zy.co/inc/605m3u8.php",
+            "api": "http://www.605zy.vip/inc/605m3u8.php",
             "playUrl": "",
             "categories": [
                 
